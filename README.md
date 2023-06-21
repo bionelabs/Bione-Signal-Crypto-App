@@ -4,6 +4,8 @@
 
 Best signal crypto app for future (buy, sell) trading  with an intelligent bot even in a downtrend market.
 
+---
+
 ## Install
 Cryptocurrency signal crypto app for trading with an intelligent bot. Give you more information to trade and invest.
 
@@ -15,6 +17,8 @@ Cryptocurrency signal crypto app for trading with an intelligent bot. Give you m
 * ✅ We update every week to help the bot give the right crypto signals.
 * ✅ Real-time notification for crypto signals immediately.
 * ✅ Advice on crypto market insights like Rules for trade, the experience of trading, and market fear,...
+
+---
 
 Bione is developed by a small team. It facilitates how we debug apps and bring joy and pleasure to all developers.
 
