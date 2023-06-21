@@ -4,9 +4,9 @@
 
 Best signal crypto app for future (buy, sell) trading  with an intelligent bot even in a downtrend market.
 
-## Intall
+## Install
 Cryptocurrency signal crypto app for trading with an intelligent bot. Give you more information to trade and invest. 
-Try this app: https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
+<b>Available on the Apple Store</b>: https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288
 
 ## Features
 * ✅ Best crypto signals for future (buy, sell) trading on Binance with an intelligent bot even in a downtrend market.
