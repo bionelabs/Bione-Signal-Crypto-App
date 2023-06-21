@@ -18,6 +18,10 @@ Cryptocurrency signal crypto app for trading with an intelligent bot. Give you m
 * ✅ Real-time notification for crypto signals immediately.
 * ✅ Advice on crypto market insights like Rules for trade, the experience of trading, and market fear,...
 
+## Have a problem?
+
+- Please Open Github ticket
+
 ---
 
 Bione is developed by a small team. It facilitates how we debug apps and bring joy and pleasure to all developers.
