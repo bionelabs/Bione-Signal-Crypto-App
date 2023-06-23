@@ -22,6 +22,10 @@ Cryptocurrency signal crypto app for trading with an intelligent bot. Give you m
 
 - Please Open Github ticket
 
+## Author
+
+Cao Phước Thanh (Peter) - caophuocthanh@gmail.com
+
 ---
 
 Bione is developed by a small team. It facilitates how we debug apps and bring joy and pleasure to all developers.
