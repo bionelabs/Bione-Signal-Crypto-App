@@ -1,13 +1,14 @@
 # Bione Signal Crypto
 
+<a href="https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288">Signal crypto app</a> that helps users (buy, sell) trade with an intelligent bot even in a downtrend market.
+
 ![Bione Signal Crypto App](https://img1.wsimg.com/isteam/ip/5c44168a-9e4c-47aa-abeb-f00614993042/IMG_2686.PNG/:/rs=w:1280)
 
-Best signal crypto app for future (buy, sell) trading  with an intelligent bot even in a downtrend market.
 
 ---
 
 ## Install
-Cryptocurrency signal crypto app for trading with an intelligent bot.
+Cryptocurrency <a href="https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288">signal crypto app</a> for trading with an intelligent bot.
 
 <a href="https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Available_on_the_App_Store_%28black%29_SVG.svg/640px-Available_on_the_App_Store_%28black%29_SVG.svg.png"></a>
 
