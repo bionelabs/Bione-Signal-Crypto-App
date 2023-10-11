@@ -32,7 +32,7 @@ Cryptocurrency signal crypto app for trading with an intelligent bot.
 
 Ciao - caophuocthanh@gmail.com
 
-Bione Admin - admin@bionelabs.com
+Bione Labs Admin - admin@bionelabs.com
 
 ---
 
