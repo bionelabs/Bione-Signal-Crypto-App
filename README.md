@@ -31,6 +31,7 @@ Cryptocurrency signal crypto app for trading with an intelligent bot.
 ## Author
 
 Ciao - caophuocthanh@gmail.com
+
 Bione Admin - admin@bionelabs.com
 
 ---
