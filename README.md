@@ -25,6 +25,7 @@ Cryptocurrency signal crypto app for trading with an intelligent bot.
 ## Have a problem?
 
 - Please Open the <a href="https://github.com/bionelabs/bionesignal/issues/new/choose">GitHub ticket</a>
+
 We looking for more ideas to improve and make the system better. Give me your ideas to improve it. Thanks
 
 ## Author
