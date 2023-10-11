@@ -24,15 +24,17 @@ Cryptocurrency signal crypto app for trading with an intelligent bot.
 
 ## Have a problem?
 
-- Please Open the GitHub ticket
+- Please Open the <a href="https://github.com/bionelabs/bionesignal/issues/new/choose">GitHub ticket</a>
+We looking for more ideas to improve and make the system better. Give me your ideas to improve it. Thanks
 
 ## Author
 
 Ciao - caophuocthanh@gmail.com
+Bione Admin - admin@bionelabs.com
 
 ---
 
-A small team develops Bione. It facilitates how we debug apps and bring joy and pleasure to all developers.
+A small team develops Bione. It facilitates how we debug apps and brings joy and pleasure to all developers.
 
 We're genuinely happy if you purchase a license to support the development ❤️❤️❤️
 
