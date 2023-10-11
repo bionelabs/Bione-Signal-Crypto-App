@@ -12,7 +12,7 @@ Cryptocurrency signal crypto app for trading with an intelligent bot.
 <a href="https://apps.apple.com/us/app/bione-signal-buy-btc-crypto/id6443679288"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Available_on_the_App_Store_%28black%29_SVG.svg/640px-Available_on_the_App_Store_%28black%29_SVG.svg.png"></a>
 
 ## Features
-* ✅ Best crypto signals for future (buy, sell) trading on Binance with an intelligent bot even in a downtrend market.
+* ✅ Crypto signals for future (buy, sell) trading on Binance with an intelligent bot even in a downtrend market.
 * ✅ The bot with strong TA/FA to find the best signals for you.
 * ✅ We update weekly to help the bot give the right crypto signals.
 * ✅ Real-time notification for crypto signals immediately.
