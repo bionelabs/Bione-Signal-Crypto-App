@@ -33,8 +33,6 @@ Cryptocurrency <a href="https://apps.apple.com/us/app/bione-signal-buy-btc-crypt
 
 ## Author
 
-Ciao - caophuocthanh@gmail.com
-
 Bione Labs Admin - admin@bionelabs.com
 
 ---
